@@ -32,7 +32,7 @@ For announcements about new releases, follow the
 mailing list. Our documentation also tracks [breaking
 changes](https://docs.flutter.dev/release/breaking-changes) across releases.
 
-## Terms of service
+## Terms of service CRIPTANUL
 
 The Flutter tool may occasionally download resources from Google servers. By
 downloading or using the Flutter SDK, you agree to the Google Terms of Service:
