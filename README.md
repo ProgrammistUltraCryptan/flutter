@@ -6,6 +6,7 @@
     </picture>
   </h1>
 </a>
+New letter
 
 [![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
