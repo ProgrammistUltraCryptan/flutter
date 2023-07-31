@@ -9,6 +9,7 @@
 New letter
 
 [![Build Status - Cirrus][]][Build status]
+[![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
 [![Twitter handle][]][Twitter badge]
 [![codecov](https://codecov.io/gh/flutter/flutter/branch/master/graph/badge.svg?token=11yDrJU2M2)](https://codecov.io/gh/flutter/flutter)
