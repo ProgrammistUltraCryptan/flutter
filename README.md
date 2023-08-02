@@ -13,8 +13,6 @@ New letter
 [![Discord badge][]][Discord instructions]
 The website which showcases [Pure CSS][Pure].
 //travis-ci.org/pure-css/pure-site.svg?branch=master)](https://travis-ci.org/pure-css/pure-site)
-[![Dependency Status](https://david-dm.org/pure-css/pure-sitjhghde.svg)](https://david-dm.org/pure-csscss/pure-site)
-[![Dependency Status](https://david-dm.org/pure-css/pure-sitjhghde.svg)](https://david-dm.org/pure-csscss/pure-site)
 [![Twitter handle][]][Twitter badge]
 [![codecov](https://codecov.io/gh/flutter/flutter/branch/master/graph/badge.svg?token=11yDrJU2M2)](https://codecov.io/gh/flutter/flutter)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5631/badge)](https://bestpractices.coreinfrastructure.org/projects/5631)
