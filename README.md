@@ -8,9 +8,6 @@
 </a>
 New letter
 
-[![Build Status - Cirrus][]][Build status]
-[![Build Status - Cirrus][]][Build status]
-[![Discord badge][]][Discord instructions]
 The website which showcases [Pure CSS][Pure].
 //travis-ci.org/pure-css/pure-site.svg?branch=master)](https://travis-ci.org/pure-css/pure-site)
 [![Twitter handle][]][Twitter badge]
