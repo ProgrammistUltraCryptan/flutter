@@ -9,8 +9,7 @@
 New letter
 
 The website which showcases [Pure CSS][Pure].
-//travis-ci.org/pure-css/pure-site.svg?branch=master)](https://travis-ci.org/pure-css/pure-site)
-[![Build Status - Cirrus][]][Build status]
+//travis-ci.org/pure-css/pure-site.svg?branch=master)](h
 [![Discord badge][]][Discord instructions]
 [![Twitter handle][]][Twitter badge]
 [![codecov](https://codecov.io/gh/flutter/flutter/branch/master/graph/badge.svg?token=11yDrJU2M2)](https://codecov.io/gh/flutter/flutter)
